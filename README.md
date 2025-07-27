@@ -1,7 +1,7 @@
 # Car_Hell
-final project game: "Car hall"
+final project game: "Car hall" made in java
 
-doubt any1 will read this,
+HTML is the javadoc
 this is the finale project "CarHell", all details can be seen in the project file (תיק פרויקט).
 this is an older project from the end of highschool.
 
